@@ -1,0 +1,9 @@
+@font-face {
+font-family: 'Yatra One', cursive;
+src: url(../public/YatraOne-Regular.ttf);
+}
+
+.p {
+font-family: 'Yatra One', cursive;
+font-size: 32px;
+}
